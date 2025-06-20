@@ -1,7 +1,6 @@
 import axios from "axios";
 
-const API_KEY = '50307425-541b949c038afe75b2e77934f'; 
-const BASE_URL = 'https://task-8-api.com/';
+
 
 interface Post {
   id: number;
